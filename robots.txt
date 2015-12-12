@@ -1,0 +1,6 @@
+# www.robotstxt.org/
+
+Sitemap: http://t2isoft.com/sitemap.xml
+
+User-agent: *
+Disallow: /
