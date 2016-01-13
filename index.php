@@ -135,7 +135,7 @@
 				<div class="message-box clearfix">
 
 					<div class="left-col">
-						<p>Bonjour, ici<br><span>Cree&#160Vos&#160Rêves</span><br/></p>
+						<p>Bonjour, ici<br><span>Créez&#160Vos&#160Rêves</span><br/></p>
 					</div>
 
 					<div class="right-col flexslider home-slider">
