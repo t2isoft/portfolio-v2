@@ -112,9 +112,9 @@
 						<li>
 							<a href="#about" class="scrollto">A propos de moi</a>
 						</li>
-						<!-- <li>
-							<a href="#portfolio" class="scrollto">Portfolio</a>
-						</li> -->
+						<li>
+							<a href="#portfolio" class="scrollto">Réalisations</a>
+						</li>
 						<li>
 							<a href="#contact" class="scrollto">Contactez moi</a>
 						</li>
@@ -135,7 +135,7 @@
 				<div class="message-box clearfix">
 
 					<div class="left-col">
-						<p>Welcome, here<br><span>Create&#160Your&#160Dream</span><br/></p>
+						<p>Bonjour, ici<br><span>Cree&#160Vos&#160Rêves</span><br/></p>
 					</div>
 
 					<div class="right-col flexslider home-slider">
@@ -146,7 +146,7 @@
 
 							<li><p>&#160&#160&#160Websites</p></li>
 
-                            <li><p>&#160&#160&#160Seo</p></li>
+              <li><p>&#160&#160&#160Seo</p></li>
 
 
 						</ul>
@@ -267,6 +267,216 @@
 
 		</section><!--End skills section -->
 
+		<!-- ==============================================
+		PORTFOLIO
+		=============================================== -->
+		<section  id="portfolio">
+
+			<div id="portfolio-header" class="text-center">
+
+				<h1 class="section-title scrollimation scale-in">Mes <span>Réalisations</span> <i class="icon-pencil"></i></h1>
+
+				<!--==== Portfolio Filters ====-->
+				<div id="filter-works">
+					<ul>
+						<li class="active">
+							<a href="#fake" data-filter="*">All</a>
+						</li>
+						<li>
+							<a href="#fake" data-filter=".vitrine">Site vitrine</a>
+						</li>
+						<li>
+							<a href="#fake" data-filter=".annonces">Site d'annonces</a>
+						</li>
+						<li>
+							<a href="#fake" data-filter=".autres">Autres</a>
+						</li>
+						<li>
+							<a href="#fake" data-filter=".joomla">Joomla</a>
+						</li>
+						<li>
+							<a href="#fake" data-filter=".wordpress">Wordpress</a>
+						</li>
+					</ul>
+				</div><!--End portfolio filters -->
+
+			</div><!--End portfolio header -->
+
+			<div class="container masonry-wrapper scrollimation fade-in">
+
+				<div id="projects-container">
+
+					<!-- ==============================================
+					SINGLE PROJECT ITEM
+					=============================================== -->
+					<a class="project-item autres" href="http://t2isoft.com/index.php" target="_blank" data-images="assets/projects/t2isoft1.png, assets/projects/t2isoft2.png, assets/projects/t2isoft3.png">
+
+						<img class="img-responsive project-image" src="assets/projects/t2isoft.png"  alt=""><!--Project thumb -->
+
+						<div class="hover-mask">
+							<h2 class="project-title">T2isoft</h2><!--Project Title -->
+							<p>Agence web</p><!--Project Subtitle -->
+						</div>
+
+						<!--==== Project Preview HTML ====-->
+
+						<div class="sr-only project-description">
+							<p>Agence web</p>
+							<img class="img-responsive img-center" src="assets/projects/t2isoft-logo.png"  alt="">
+						</div>
+
+					</a>
+					<!-- ==============================================
+					END PROJECT ITEM
+					=============================================== -->
+
+					<a class="project-item icons autres wordpress" href="http://www.microceft.890m.com/" data-images="assets/projects/microceft1.png, assets/projects/microceft2.png, assets/projects/microceft3.png, assets/projects/microceft4.png, assets/projects/microceft5.png, assets/projects/microceft6.png">
+
+						<img class="img-responsive project-image" src="assets/projects/microceft.jpg" alt=""><!--Project thumb -->
+
+						<div class="hover-mask">
+							<h2 class="project-title">Microceft</h2><!--Project Title -->
+							<p>Microceft</p><!--Project Subtitle -->
+						</div>
+
+						<!--==== Project Preview HTML ====-->
+
+						<div class="sr-only project-description">
+							<p class="clearfix">Société de vente de matériel informatique</p>
+							<img class="img-responsive img-center" src="assets/projects/microceft-logo.png" alt="">
+						</div>
+
+					</a><!--End Project Item -->
+
+					<a class="project-item web-design autres" href="http://hotel-dans-paris.fr/" data-images="assets/projects/hotel1.png, assets/projects/hotel2.png">
+
+						<img class="img-responsive project-image" src="assets/projects/hotel.png"  alt=""><!--Project thumb -->
+
+						<div class="hover-mask">
+							<h2 class="project-title">Hotel dans paris</h2><!--Project Title -->
+							<p>Hotel-dans-paris.fr</p><!--Project Subtitle -->
+						</div>
+
+						<!--==== Project Preview HTML ====-->
+
+						<div class="sr-only project-description">
+							<p class="clearfix">Site de réservation d'hôtel</p>
+						</div>
+
+					</a><!--End Project Item -->
+
+					<a class="project-item vitrine" href="http://imade.890m.com/" data-images="assets/projects/imade1.png, assets/projects/imade2.png, assets/projects/imade3.png">
+
+						<img class="img-responsive project-image" src="assets/projects/imade.png"  alt=""><!--Project thumb -->
+
+						<div class="hover-mask">
+							<h2 class="project-title">Imade</h2><!--Project Title -->
+							<p>Imade garage</p><!--Project Subtitle -->
+						</div>
+
+						<!--==== Project Preview HTML ====-->
+
+						<div class="sr-only project-description">
+							<p class="clearfix">Garage automobile de Bezons</p>
+						</div>
+
+					</a><!--End Project Item -->
+
+					<a class="project-item vitrine" href="http://www.mannequine.890m.com/" data-images="assets/projects/mannequine1.png, assets/projects/mannequine2.png, assets/projects/mannequine3.png">
+
+						<img class="img-responsive project-image" src="assets/projects/mannequine.png"  alt=""><!--Project thumb -->
+
+						<div class="hover-mask">
+							<h2 class="project-title">Mannequine</h2><!--Project Title -->
+							<p>Book mannequin</p><!--Project Subtitle -->
+						</div>
+
+						<!--==== Project Preview HTML ====-->
+
+						<div class="sr-only project-description">
+							<p class="clearfix">Book présentant une mannequin</p>
+						</div>
+
+					</a><!--End Project Item -->
+
+					<a class="project-item annonces joomla" href="http://annonceur.890m.com/" data-images="assets/projects/annonceur1.png, assets/projects/annonceur2.png, assets/projects/annonceur3.png">
+
+						<img class="img-responsive project-image" src="assets/projects/annonceur.png"  alt=""><!--Project thumb -->
+
+						<div class="hover-mask">
+							<h2 class="project-title">Annonceur</h2><!--Project Title -->
+							<p>Site de petites annonces</p><!--Project Subtitle -->
+						</div>
+
+						<!--==== Project Preview HTML ====-->
+
+						<div class="sr-only project-description">
+							<p class="clearfix">Site de petites annonces</p>
+						</div>
+
+					</a><!--End Project Item -->
+
+					<a class="project-item annonces joomla" href="http://immobilis.890m.com/" data-images="assets/projects/immobilis1.png, assets/projects/immobilis2.png, assets/projects/immobilis3.png, assets/projects/immobilis4.png">
+
+						<img class="img-responsive project-image" src="assets/projects/immobilis.png"  alt=""><!--Project thumb -->
+
+						<div class="hover-mask">
+							<h2 class="project-title">Immobilis</h2><!--Project Title -->
+							<p>Site d'annonces immobiliere</p><!--Project Subtitle -->
+						</div>
+
+						<!--==== Project Preview HTML ====-->
+
+						<div class="sr-only project-description">
+							<p>Site de petites annonces immobiliere de particulier à particulier</p>
+						</div>
+
+					</a><!--End Project Item -->
+
+				<!--End Project Item -->
+
+				</div><!-- End projects -->
+
+			</div><!-- End container -->
+
+			<!-- ==============================================
+			PROJECT PREVIEW MODAL (Do not alter this markup)
+			=============================================== -->
+			<div id="project-modal" class="modal fade">
+
+				<div class="modal-dialog">
+
+					<div class="modal-content">
+
+						<div class="modal-header">
+							<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+						</div>
+
+						<div class="modal-body">
+
+							<div class="left-col">
+								<img class="img-responsive" src="assets/imac.png" alt="">
+								<div class="loader"></div>
+								<div class="image-wrapper"></div>
+							</div>
+
+							<h1></h1>
+
+							<div class="project-descr"></div>
+
+							<div class="clearfix"></div>
+
+							<p class="text-center"><a class="btn btn-theme"><i class="icon-external-link"></i>Visit Website</a></p>
+
+						</div><!-- End modal-body -->
+
+					</div><!-- End modal-content -->
+
+				</div><!-- End modal-dialog -->
+
+			</div><!-- End modal -->
+
+		</section><!-- End portfolio section -->
 
 
 		<!-- ==============================================
@@ -295,7 +505,7 @@
 
 			<div class="container">
 
-				<h1 class="section-title scrollimation scale-in"> <span>Keep calm</span> and contact me</h1>
+				<h1 class="section-title scrollimation scale-in"> <span>CONTACTEZ MOI</span></h1>
 
 				<div class="row">
 
@@ -311,13 +521,13 @@
 						</address>
 
 						<ul class="socials">
-							<li><a href="https://twitter.com/t2isoft" target=_blank><i class="icon-twitter"></i></a></li>
-							<li><a href="https://www.facebook.com/karl.kelleoglu" target=_blank><i class="icon-facebook"></i></a></li>
+							<!--<li><a href="https://twitter.com/t2isoft" target=_blank><i class="icon-twitter"></i></a></li>-->
+							<!--<li><a href="https://www.facebook.com/karl.kelleoglu" target=_blank><i class="icon-facebook"></i></a></li>-->
 							<!-- <li><a href="#fakelink" target=_blank><i class="icon-dribbble"></i></a></li> -->
-							<li><a href="https://plus.google.com/103377602465276321204/posts" target=_blank><i class="icon-google-plus"></i></a></li>
+							<!--<li><a href="https://plus.google.com/103377602465276321204/posts" target=_blank><i class="icon-google-plus"></i></a></li>-->
 							<li><a href="http:\\fr.linkedin.com/pub/karl-kelleoglu/57/7a4/9ab/" target=_blank><i class="icon-linkedin"></i></a></li>
 							<li><a href="https://github.com/t2isoft" target=_blank><i class="icon-github"></i></a></li>
-							<li><a href="https://www.codeur.com/-t2isoft" target=_blank><i class="icon-star"></i></a></li>
+							<!--<li><a href="https://www.codeur.com/-t2isoft" target=_blank><i class="icon-star"></i></a></li>-->
 						</ul>
 
 					</div>
@@ -392,7 +602,7 @@
 
 					<div class="col-sm-6 right-col">
 						<h2>Qui suis-je ?</h2>
-						<p>Je suis un entrepreneur français ayant fait des études en ingénieurie informatique est travaillant avec plusieurs partenaires situées en belgique, suisse, maroc etc...</p>
+						<p>Je suis un entrepreneur et développeur français faisant mes études en ingénieurie informatique passionnée par l'informatique et l'entreprenariat.</p>
 					</div>
 
 				</div><!-- End row -->
