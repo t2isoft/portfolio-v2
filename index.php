@@ -226,7 +226,7 @@
 					</div>
 					<div class="col-sm-6 col-sm-offset-1 scrollimation fade-left">
 						<h1>Bonjour, je suis ici pour vous aider ...</h1>
-						<p>Je suis un chef de projet vivant à<a href="#linktomaps"> Paris, France</a>. J'ai travaillé avec des sociétés comme <a href="#somelink">BDM Service et transport</a>, des sociétés d'évenementiel tels que <a href="#somelink">City one</a> et des société de courtage en assurance tels que <a href="#somelink">Capi finance</a> et bien sur j'ai monté ma propre société <a href="http://t2isoft.com/" target="_blank">T2isoft</a>.<br/>Créer n'est pas juste un travail pour moi, c'est ma passion. </p>
+						<p>Je suis un chef de projet vivant à<a href="#linktomaps"> Paris, France</a>. J'ai travaillé avec des sociétés comme <a href="#somelink">BDM Service et transport</a>, des sociétés d'évenementiel tels que <a href="#somelink">City one</a> et des sociétés de courtage en assurance tels que <a href="#somelink">Capi finance</a> et bien sûr j'ai monté ma propre société <a href="http://t2isoft.com/" target="_blank">T2isoft</a>.<br/>Créer n'est pas juste un travail pour moi, c'est ma passion. </p>
 						<!-- <a href="#portfolio" class="btn btn-theme transparent scrollto">View my Works</a> -->
 					</div>
 				</div><!--End row -->
@@ -602,7 +602,7 @@
 
 					<div class="col-sm-6 right-col">
 						<h2>Qui suis-je ?</h2>
-						<p>Je suis un entrepreneur et développeur français faisant mes études en ingénieurie informatique passionnée par l'informatique et l'entreprenariat.</p>
+						<p>Je suis un entrepreneur et développeur français faisant mes études en ingénieurie informatique passionné par l'informatique et l'entreprenariat.</p>
 					</div>
 
 				</div><!-- End row -->
