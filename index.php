@@ -560,7 +560,7 @@
 							</div>
 						</div><!-- End textarea -->
 
-						<p><button name="submit" type="submit" class="btn btn-theme btn-lg" data-error-message="Error!" data-sending-message="Envoi..." data-ok-message="Message Envoyer"><i class="icon-location-arrow"></i>Envoyer</button></p>
+						<p><button id="submit" name="submit" type="submit" class="btn btn-theme btn-lg" data-error-message="Error!" data-sending-message="Envoi..." data-ok-message="Envoyer" data-send-message="ok" ><i class="icon-location-arrow"></i>Valider</button></p>
 						<input type="hidden" name="submitted" id="submitted" value="true" />
 
 					</form><!-- End contact-form -->

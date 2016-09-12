@@ -43,7 +43,7 @@ if(isset($_POST['submitted'])) {
 
 		$subject = 'Mesage de mon '.$siteTitle.' de la part de '.$name;
 		$sendCopy = trim($_POST['sendCopy']);
-		$body = "Nom: $name \n\nEmail: $email \n\nMessage: $comments";
+		$body = 'Nom: ' .$name. ' Email: '.$email.' Message: '.$comments;
 		$headers = 'From: ' .' <'.$email.'>' . "\r\n" . 'Reply-To: ' . $email;
 
 		mail($emailTo, $subject, $body, $headers);

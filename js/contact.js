@@ -41,10 +41,8 @@ $(document).ready(function() {
 			var formInput = $(this).serialize();
 			$.post($(this).attr('action'),formInput, function(data){
 				$('#contact-form button').html('<i class="icon-ok"></i>'+okMessage);
-				setTimeout(function(){
-					$('#contact-form button').html(buttonCopy);
-					$('#contact-form button').width('auto');
-				},2000);
+				$('#submit').attr("disabled", "disabled"); 
+				
 				
 			});
 		}
