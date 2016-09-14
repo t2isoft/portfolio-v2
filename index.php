@@ -116,7 +116,7 @@
 							<a href="#portfolio" class="scrollto">Réalisations</a>
 						</li>
 						<li>
-							<a href="#contact" class="scrollto">Contactez moi</a>
+							<a href="#contact" class="scrollto">Contact</a>
 						</li>
 					</ul>
 				</div><!--End navbar-collapse -->
@@ -505,7 +505,7 @@
 
 			<div class="container">
 
-				<h1 class="section-title scrollimation scale-in"> <span>CONTACTEZ MOI</span></h1>
+				<h1 class="section-title scrollimation scale-in"> <span>CONTACT</span></h1>
 
 				<div class="row">
 

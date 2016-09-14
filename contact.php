@@ -49,8 +49,8 @@ if(isset($_POST['submitted'])) {
 		mail($emailTo, $subject, $body, $headers);
 
         //Autoresponse
-		$respondSubject = 'Merci de m\'avoir contacter';
-		$respondBody = "Je vous repondrez des que possible.";
+		$respondSubject = 'Je vous remercie de m\'avoir contacté';
+		$respondBody = "Je vous répondrai dès que possible";
 		$respondHeaders = 'From: ' .' <'.$emailTo.'>' . "\r\n" . 'Reply-To: ' . $emailTo;
 
 		mail($email, $respondSubject, $respondBody, $respondHeaders);
